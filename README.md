@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Kaniska Garg
+# 👋 Hey there! I'm Kanishka Garg
 
 🚀 A curious mind, passionate coder, and enthusiastic open-source contributor — currently exploring the vast universe of **Software Development**.
 
