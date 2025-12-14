@@ -14,10 +14,9 @@
 const kanishka = {
   pronouns: "she/her",
   location: "India 🇮🇳",
-  role: "Full-Stack Developer & ML Engineer",
-  currentProject: "Dhan-Laabh - Stock Price Prediction App",
-  expertise: ["Web Development", "Machine Learning", "MLOps"],
-  learning: ["Advanced ML Models", "System Design", "DVC"],
+  role: "Full-Stack Developer",
+  currentProject: "Recruitment Portal - Niche Nest",
+  learning: ["MLOps", "System Design", "DVC"],
   motto: "Code with purpose, learn with curiosity"
 };
 ```
@@ -25,8 +24,7 @@ const kanishka = {
 ## 💻 Tech Stack
 
 **Frontend:** React • JavaScript • HTML5 • CSS3 • Bootstrap • Plotly • Chart.js  
-**Backend:** Node.js • Express.js • Flask • MongoDB  
-**ML & Data:** Python • Scikit-learn • Pandas • NumPy • DVC  
+**Backend:** Node.js • Express.js • MongoDB 
 **Tools:** Git • GitHub • VS Code • Docker
 
 ## 📊 GitHub Stats
